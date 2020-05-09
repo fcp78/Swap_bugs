@@ -1,9 +1,8 @@
 #include <iostream>
 
-using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	cout << "Hello stupid world" << endl;
+	std::cout << "Hello stupid world" << std::endl;
 	return 0;
 }
